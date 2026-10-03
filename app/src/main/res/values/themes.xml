@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.DeviceInfo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand_primary</item>
+        <item name="colorSecondary">@color/state_supported</item>
+        <item name="colorSurface">@color/card_background</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorBackground">@color/page_background</item>
+        <item name="android:windowBackground">@color/page_background</item>
+        <item name="android:statusBarColor">@color/card_background</item>
+        <item name="android:navigationBarColor">@color/card_background</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <!-- 浅色模式：状态栏是浅色底，需要深色图标 -->
+    <style name="Theme.DeviceInfo" parent="Base.Theme.DeviceInfo">
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- 抽屉菜单项：圆角选中效果 -->
+    <style name="ShapeAppearance.DeviceInfo.NavItem" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">26dp</item>
+    </style>
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 品牌色 -->
+    <color name="brand_primary">#FFA5B4FC</color>
+    <color name="brand_on_primary">#FF17152E</color>
+
+    <!-- 页面与卡片 -->
+    <color name="page_background">#FF0E1117</color>
+    <color name="card_background">#FF171B24</color>
+
+    <!-- 文字 -->
+    <color name="text_primary">#FFE8EAED</color>
+    <color name="text_secondary">#FFA8B1C2</color>
+
+    <!-- 分隔线与图标底 -->
+    <color name="divider">#FF293142</color>
+    <color name="icon_chip_bg">#FF252642</color>
+
+    <!-- 支持 / 不支持 -->
+    <color name="state_supported">#FF5EEAD4</color>
+    <color name="state_unsupported">#FFFDA4AF</color>
+
+    <!-- 抽屉菜单 -->
+    <color name="nav_item_normal">#DEFFFFFF</color>
+    <color name="nav_item_checked">@color/brand_primary</color>
+</resources>

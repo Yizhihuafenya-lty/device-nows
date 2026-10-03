@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all"
+            android:icon="@drawable/ic_nav_all"
+            android:title="@string/nav_all" />
+        <item
+            android:id="@+id/nav_device"
+            android:icon="@drawable/ic_nav_device"
+            android:title="@string/nav_device" />
+        <item
+            android:id="@+id/nav_features"
+            android:icon="@drawable/ic_nav_features"
+            android:title="@string/nav_features" />
+        <item
+            android:id="@+id/nav_system"
+            android:icon="@drawable/ic_nav_system"
+            android:title="@string/nav_system" />
+        <item
+            android:id="@+id/nav_cpu"
+            android:icon="@drawable/ic_nav_cpu"
+            android:title="@string/nav_cpu" />
+        <item
+            android:id="@+id/nav_memory"
+            android:icon="@drawable/ic_nav_memory"
+            android:title="@string/nav_memory" />
+        <item
+            android:id="@+id/nav_display"
+            android:icon="@drawable/ic_nav_display"
+            android:title="@string/nav_display" />
+        <item
+            android:id="@+id/nav_battery"
+            android:icon="@drawable/ic_nav_battery"
+            android:title="@string/nav_battery" />
+        <item
+            android:id="@+id/nav_network"
+            android:icon="@drawable/ic_nav_network"
+            android:title="@string/nav_network" />
+        <item
+            android:id="@+id/nav_media"
+            android:icon="@drawable/ic_nav_media"
+            android:title="@string/nav_media" />
+        <item
+            android:id="@+id/nav_motion"
+            android:icon="@drawable/ic_nav_motion"
+            android:title="@string/nav_motion" />
+        <item
+            android:id="@+id/nav_sensor"
+            android:icon="@drawable/ic_nav_sensor"
+            android:title="@string/nav_sensor" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_nav_camera"
+            android:title="@string/nav_camera" />
+        <item
+            android:id="@+id/nav_app"
+            android:icon="@drawable/ic_nav_app"
+            android:title="@string/nav_app" />
+    </group>
+
+</menu>

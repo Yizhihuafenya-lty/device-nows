@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "设备信息"
+    },
+    {
+      "name": "module_desc",
+      "value": "设备信息监测模块"
+    },
+    {
+      "name": "entry_desc",
+      "value": "设备信息主页面"
+    }
+  ]
+}

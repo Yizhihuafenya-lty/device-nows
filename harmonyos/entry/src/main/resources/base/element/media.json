@@ -1,0 +1,9 @@
+{
+  "media": [
+    {
+      "name": "app_icon",
+      "type": "svg",
+      "file": "app_icon.svg"
+    }
+  ]
+}

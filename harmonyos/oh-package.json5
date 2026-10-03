@@ -1,0 +1,12 @@
+{
+  "name": "device-info-harmony",
+  "version": "1.0.0",
+  "description": "Device information monitor built with ArkUI",
+  "main": "index.ets",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@ohos/hvigor": "5.0.6",
+    "@ohos/hvigor-ohos-plugin": "5.0.6"
+  },
+  "modelVersion": "5.0.4"
+}
